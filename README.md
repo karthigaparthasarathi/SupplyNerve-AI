@@ -49,7 +49,7 @@ The platform identifies critical exceptions and provides AI-powered recommendati
 
 🚧 Functional MVP in Progress
 
-Current capabilities:
+### Current Capabilities
 
 - Excel data upload
 - Forecast change analysis
