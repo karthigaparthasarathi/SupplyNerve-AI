@@ -27,7 +27,7 @@ SupplyNerve AI continuously analyzes:
 - Demand fluctuations
 - Supply constraints
 
-The platform identifies critical exceptions and provides AI-powered recommendations to support proactive decision-making.
+The platform identifies critical exceptions and delivers AI-powered recommendations to support proactive decision-making and improve supply chain resilience.
 
 ## Key Features
 
@@ -54,5 +54,5 @@ The platform identifies critical exceptions and provides AI-powered recommendati
 - Excel data upload
 - Forecast change analysis
 - Supplier response monitoring
-- Risk classification
+- Automated risk classification
 - AI-generated recommendations
