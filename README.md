@@ -1,5 +1,9 @@
 # SupplyNerve AI
 
+**AI-powered Supply Chain Risk Intelligence Platform**
+
+## Overview
+
 SupplyNerve AI is an AI-powered Supply Chain Risk Intelligence Platform that helps procurement and planning teams proactively identify supply disruptions before they impact business operations.
 
 ## Problem Statement
@@ -29,7 +33,7 @@ The platform identifies critical exceptions and provides AI-powered recommendati
 
 - Forecast Change Analysis
 - Supplier Response Tracking
-- Risk Classification
+- Risk Classification (High / Medium / Low)
 - AI-Powered Recommendations
 - Supply Chain Risk Monitoring
 
@@ -43,5 +47,12 @@ The platform identifies critical exceptions and provides AI-powered recommendati
 
 ## Project Status
 
-🚧 Functional MVP in Progress# SupplyNerve-AI
-AI-powered Supply Chain Risk Intelligence Platform
+🚧 Functional MVP in Progress
+
+Current capabilities:
+
+- Excel data upload
+- Forecast change analysis
+- Supplier response monitoring
+- Risk classification
+- AI-generated recommendations
